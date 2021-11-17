@@ -1,0 +1,4 @@
+enum DisplayMode {
+  wide,
+  compact,
+}
